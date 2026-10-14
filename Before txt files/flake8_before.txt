@@ -1,0 +1,22 @@
+pharmacy_manager_backup.py:2:1: F401 'sys' imported but unused
+pharmacy_manager_backup.py:6:1: F401 'logging' imported but unused
+pharmacy_manager_backup.py:13:1: E302 expected 2 blank lines, found 1
+pharmacy_manager_backup.py:19:80: E501 line too long (81 > 79 characters)
+pharmacy_manager_backup.py:22:1: E302 expected 2 blank lines, found 1
+pharmacy_manager_backup.py:27:5: E722 do not use bare 'except'
+pharmacy_manager_backup.py:30:1: E302 expected 2 blank lines, found 1
+pharmacy_manager_backup.py:33:1: E302 expected 2 blank lines, found 1
+pharmacy_manager_backup.py:40:1: E302 expected 2 blank lines, found 1
+pharmacy_manager_backup.py:46:1: E302 expected 2 blank lines, found 1
+pharmacy_manager_backup.py:50:1: E302 expected 2 blank lines, found 1
+pharmacy_manager_backup.py:53:1: E302 expected 2 blank lines, found 1
+pharmacy_manager_backup.py:56:1: E302 expected 2 blank lines, found 1
+pharmacy_manager_backup.py:61:1: E302 expected 2 blank lines, found 1
+pharmacy_manager_backup.py:67:1: E302 expected 2 blank lines, found 1
+pharmacy_manager_backup.py:70:1: E302 expected 2 blank lines, found 1
+pharmacy_manager_backup.py:78:1: E302 expected 2 blank lines, found 1
+pharmacy_manager_backup.py:84:1: E302 expected 2 blank lines, found 1
+pharmacy_manager_backup.py:87:80: E501 line too long (111 > 79 characters)
+pharmacy_manager_backup.py:89:1: E302 expected 2 blank lines, found 1
+pharmacy_manager_backup.py:98:80: E501 line too long (85 > 79 characters)
+pharmacy_manager_backup.py:108:1: E305 expected 2 blank lines after class or function definition, found 1
